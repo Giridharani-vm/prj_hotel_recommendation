@@ -1,4 +1,3 @@
-# prj_hotel_recommendation
 # Swiggy Restaurant Recommendation System using Streamlit
 
 ## 🔧 Skills Gained
